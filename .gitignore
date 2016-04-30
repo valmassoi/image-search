@@ -28,6 +28,7 @@ report
 # mongo db
 ###################
 #Don't commit Mongo Database files
+data
 *.lock
 *.0
 *.1
