@@ -1,5 +1,5 @@
 # image-search
-Imgur Image Search Abstraction Layer using `Node.js` and `Express.js`
+Bing Image Search Abstraction Layer using `Node.js`, `Express.js`, and `MongoDB`
 
 ## Live Microservice Demo
 Hosted at https://abstraction.herokuapp.com
